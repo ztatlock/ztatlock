@@ -1,4 +1,13 @@
-### Hi there 👋
+### Howdy! 👋
+
+I'm currently working on:
+- [egg](https://github.com/egraphs-good/egg): a new e-graph library for compiler optimizations and program synthesis
+- [Titanic](https://github.com/billzorn/titanic): a framework for analyzing floating point accuracy and number systems
+- [Szalinski](https://github.com/uwplse/szalinski/): a tool to decompile constructive solid geometry expressions to parameterized CAD programs
+- [Reincarnate](https://github.com/uwplse/reincarnate-aec): a tool to decompile 3D triangle meshes to constructive solid geometry expressions
+- [Herbie](https://github.com/uwplse/herbie): a tool to automatically improve floating point accuracy
+- [FPBench](https://github.com/FPBench/FPBench): benchmarks, compilers, and standards for the floating-point research community
+- [TVM Relay](https://github.com/apache/incubator-tvm): a functional compiler IR for machine learning compilers
 
 <!--
 **ztatlock/ztatlock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
